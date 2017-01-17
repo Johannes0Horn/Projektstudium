@@ -1,6 +1,6 @@
 # Projektstudium
 Ordner:
-https://drive.google.com/drive/folders/0BznMSg1JqwgDa2lzR1dIMS1SelEProjektstudium
+https://drive.google.com/drive/folders/0BznMSg1JqwgDa2lzR1dIMS1SelE
 https://docs.google.com/spreadsheets/d/1E-zzS0DG6cO9j7tcFDJfV6kUoQU40waTarOmBGAYXVI/edit?usp=sharing
 Auf serverbrowser zugreifen:
 https://knowledgebase.jedox.com/knowledgebase/connection-api-server-browser/
